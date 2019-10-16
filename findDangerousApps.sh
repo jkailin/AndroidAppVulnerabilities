@@ -12,6 +12,8 @@
 #Path to smali files
 # IOT_SMALI_PATH="/home/j/Desktop/iotsmali"
 
+
+#Edit this path to the folder to be analyzed
 #Path to smali files
 SMALI_PATH="example/path"
 
